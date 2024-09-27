@@ -60,11 +60,11 @@ Feel free to try these or enter your own natural language queries!
 
 ## Upgrade to Pro
 
-Ready to experience the full power of AI2SQL? Visit [our website](https://www.ai2sql.com) to become a paid user and unlock all features!
+Ready to experience the full power of AI2SQL? Visit [our website](https://ai2sql.io) to become a paid user and unlock all features!
 
 ## Contact
 
-For any questions or support, please contact us at support@ai2sql.com.
+For any questions or support, please contact us at support@ai2sql.io.
 
 ## License
 
