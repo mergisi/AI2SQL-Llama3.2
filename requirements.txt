@@ -1,0 +1,2 @@
+streamlit==1.10.0
+embedchain==0.0.68
